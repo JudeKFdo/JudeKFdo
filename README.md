@@ -8,7 +8,7 @@
 - 🔍 I have a special interest in cybersecurity, and I've chosen cybersec as my specialization stream!
 - ⚡ Fun Fact: If you ever need to find me in a crowd, just yell "_Hey, Jude!_". I'll be the one shouting back "_Don't make it bad_" ([reference](https://youtu.be/mQER0A0ej0M))
 
-## 📫 Reach out:
+## 📫 Me, elsewhere:
 <p align="left">
 <a href="www.linkedin.com/in/jude-kevin-fernando" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="/in/jude-kevin-fernando" height="30" width="40" /></a>
 <a href="https://medium.com/@jkfdo" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="@jkfdo" height="30" width="40" /></a>

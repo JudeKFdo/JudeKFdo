@@ -20,6 +20,7 @@
 [![web](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 [![frameworks](https://skillicons.dev/icons?i=nodejs,react,laravel)](https://skillicons.dev)
 [![databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=docker,kubernetes,prometheus)](https://skillicons.dev)
 [![tools](https://skillicons.dev/icons?i=git,github,vscode,linux,kali)](https://skillicons.dev)
 
 <!-- Fin -->
